@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5ZXU1M2c4aHd5dmh4ZnZ6dWx1dXNrcG51a3Q2cWZqOWI4YWJqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="AI Processing"/>
-</p>
+
 
 ---
 
